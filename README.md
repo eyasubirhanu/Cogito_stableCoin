@@ -10,10 +10,9 @@
 
 # Cogito_stableCoin Installation 
 ```command 
-cabal update
-cabal build
-cabal repl
-```
+   cabal update```
+```cabal build```
+```cabal repl```
 ### ✨ [Website](https://www.cogitoprotocol.com/)
 
 
