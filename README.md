@@ -9,8 +9,7 @@
 > The Gcoin minting contract is a smart contract that governs the process of minting new Gcoin on the Cogito platform. The contract defines the rules and conditions for minting, including the amount of Gcoin that can be minted, the rate at which they can be minted, and the conditions under which minting can be stopped or paused. The Gcoin minting contract is designed to be transparent, secure, and fair, ensuring that the process of minting new Gcoin is automated, self-executing, and equitable for all users on the platform.
 
 # Cogito_stableCoin Installation 
-```command 
-   cabal update```
+```cabal update```
 ```cabal build```
 ```cabal repl```
 ### ✨ [Website](https://www.cogitoprotocol.com/)
